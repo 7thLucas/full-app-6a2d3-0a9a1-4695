@@ -4,15 +4,15 @@
 *(To be confirmed — working title: Educational Platform)*
 
 ## What It Is
-A full-stack educational platform where instructors publish structured courses and students access learning content — video lessons, written notes, downloadable PDFs, and MCQ quizzes — through a single unified app. Content can be free or paid (freemium model), giving instructors a monetisable publishing channel and students a coherent, structured learning experience.
+A professional coaching-center platform built for and operated by a single teacher-owner. The teacher runs a hybrid coaching center — serving both offline (in-person) and online students through one unified app. Students access structured learning content: video lessons, written notes, downloadable PDFs, and MCQ quizzes. Content can be free or paid (freemium model), giving the teacher-owner a monetisable channel that scales beyond the physical classroom.
 
 ## Target Users
 
-### Students (Primary)
-Browse and enrol in courses, consume video and written content, take MCQ assessments, post queries in real-time chat, and receive push/in-app notifications about new lessons, quiz availability, and replies.
+### Teacher / Owner (Operator)
+The sole instructor and platform administrator. Creates and manages all course content — uploads videos, writes notes, attaches PDFs, builds MCQ quizzes — and sets pricing per course or module. Manages both offline (walk-in) and online (remote) student cohorts from a single dashboard. Receives student queries and responds via in-app chat.
 
-### Instructors / Admins
-Publish and manage courses: upload videos, write notes, attach PDFs, build MCQ quizzes, and set content pricing (free or paid per course or module).
+### Students (End Users)
+Both offline students (who also get app access as a complement to in-person classes) and fully online students. Browse and enrol in courses, consume video and written content, take MCQ assessments, post queries in real-time chat, and receive push/in-app notifications about new lessons, quiz availability, and replies.
 
 ## Core Features
 1. **Login & Signup** — Email-based authentication for both students and instructors.
