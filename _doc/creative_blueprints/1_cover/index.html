@@ -1,0 +1,39 @@
+<style>
+.mode-landscape .sl-layout { flex-direction: row; }
+.mode-portrait  .sl-layout { flex-direction: column; }
+.mode-landscape .sl-content { width: 55%; }
+.mode-landscape .sl-visual  { width: 45%; }
+.mode-portrait  .sl-content { width: 100%; flex: 1; }
+.mode-portrait  .sl-visual  { width: 100%; height: 35%; }
+</style>
+<section class="w-full h-full overflow-auto bg-white">
+  <div class="sl-layout flex h-full">
+
+    <!-- Left: content column -->
+    <div class="sl-content flex flex-col justify-between p-12">
+      <div>
+        <span class="inline-block bg-indigo-50 text-indigo-700 text-xs font-bold tracking-widest uppercase px-3 py-1 rounded-full mb-8">
+          Educational Platform
+        </span>
+        <h1 class="text-5xl font-black text-slate-900 leading-none mb-6">
+          Learn Anything.<br/>Pay for<br/>What Matters.
+        </h1>
+        <p class="text-base text-slate-500 leading-relaxed max-w-xs">
+          Videos · Notes · PDFs · MCQ Quizzes · Live Chat — structured learning with free and premium tiers, all in one app.
+        </p>
+      </div>
+      <data-attribution />
+    </div>
+
+    <!-- Right: visual anchor -->
+    <div class="sl-visual relative overflow-hidden bg-indigo-700">
+      <img
+        src="https://api.qb-deck.quantumbyte.ai/common/image-generation?prompt=diverse%20students%20studying%20together%20on%20tablets%20and%20laptops%2C%20warm%20modern%20classroom%2C%20indigo%20editorial%20lighting%2C%20clean%20premium%20photo"
+        alt="Students learning on the platform"
+        class="w-full h-full object-cover opacity-90"
+      />
+      <div class="absolute inset-0 bg-gradient-to-l from-transparent via-transparent to-white opacity-20"></div>
+    </div>
+
+  </div>
+</section>
