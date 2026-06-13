@@ -1,7 +1,8 @@
 # Product Overview
 
 ## Product Name
-*(To be confirmed — working title: Educational Platform)*
+Harsh Commerce Academy
+*Tagline: Learn Smart, Score Better*
 
 ## What It Is
 A professional coaching-center platform built for and operated by a single teacher-owner. The teacher runs a hybrid coaching center — serving both offline (in-person) and online students through one unified app. Students access structured learning content: video lessons, written notes, downloadable PDFs, and MCQ quizzes. Content can be free or paid (freemium model), giving the teacher-owner a monetisable channel that scales beyond the physical classroom.
