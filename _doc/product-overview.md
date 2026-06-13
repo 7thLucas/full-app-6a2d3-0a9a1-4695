@@ -1,0 +1,1 @@
+Educational app which should be include as vedios , notes , MCQ, with money or without money. , pdf, login , signup  , notifications students chats with querries facilities
