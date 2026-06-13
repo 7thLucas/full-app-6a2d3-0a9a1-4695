@@ -1,7 +1,7 @@
 # Product Overview
 
 ## Product Name
-Harsh Commerce Academy
+EduCoach
 *Tagline: Learn Smart, Score Better*
 
 ## What It Is
